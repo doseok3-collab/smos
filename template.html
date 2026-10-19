@@ -28,7 +28,7 @@
   --accent:#5cc591; --accent-soft:#1a3328; color-scheme:dark}
 
 *{box-sizing:border-box}
-  img{max-width:100%;height:auto}
+img{max-width:100%;height:auto}
 html{scroll-behavior:smooth}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 body{margin:0;background:var(--paper);color:var(--ink);font:400 1rem/1.6 var(--body);-webkit-font-smoothing:antialiased}
@@ -56,6 +56,9 @@ nav a:hover{color:var(--accent)}
 .hero h1 em{font-style:italic;color:var(--accent)}
 .hero p.lead{font-size:1.08rem;max-width:36rem;color:var(--ink);margin:0 0 1.2rem}
 .hero .meta{font:400 .85rem/1.5 var(--mono);color:var(--muted);margin:0}
+figure.hero-photo{margin:0}
+figure.hero-photo img{display:block;width:100%;height:auto;border-radius:6px;border:1px solid var(--rule)}
+figure.spec-wide{max-width:44rem;margin:0 0 2rem}
 figure.spec{margin:0;background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:1rem 1rem .6rem}
 figure.spec svg{width:100%;height:auto;display:block}
 .spec .curve{fill:none;stroke:var(--accent);stroke-width:2}
@@ -162,9 +165,8 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:.5rem 2rem;justify-content:space-be
       <p class="lead">We use nonlinear and vibrational spectroscopy, chiefly sum-frequency generation, to see how molecules, ions and water organize at soft-matter interfaces: lipid and surfactant monolayers, charged surfaces and ionic liquids.</p>
       <p class="meta">Prof. Doseok Kim · Department of Physics, Sogang University, Seoul</p>
     </div>
-    <figure class="spec">
-      {{SPECTRUM}}
-      <figcaption>Illustrative SFG spectrum of a monolayer on water: alkyl-chain CH stretches near 2900 cm⁻¹ and the "ice-like" (3200) and "liquid-like" (3400) OH bands of interfacial water.</figcaption>
+    <figure class="hero-photo">
+      <img src="main.jpg" alt="SMOS lab members and alumni at a group dinner" width="800" height="600">
     </figure>
   </section>
 </div>
@@ -172,6 +174,10 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:.5rem 2rem;justify-content:space-be
 <section class="block" id="research"><div class="wrap">
   <h2>Research</h2>
   <p class="sub">An interface is a few molecular layers thick. Sum-frequency generation is forbidden in centrosymmetric bulk media, so its signal comes from exactly those layers.</p>
+  <figure class="spec spec-wide">
+    {{SPECTRUM}}
+    <figcaption>Illustrative SFG spectrum of a monolayer on water: alkyl-chain CH stretches near 2900 cm⁻¹ and the "ice-like" (3200) and "liquid-like" (3400) OH bands of interfacial water.</figcaption>
+  </figure>
   <div class="topics">
     {{RESEARCH}}
   </div>
@@ -213,16 +219,6 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:.5rem 2rem;justify-content:space-be
       </dl>
     </div>
   </div>
-  <div class="groups">
-    {{MEMBERS}}
-  </div>
-  <details>
-    <summary>Alumni</summary>
-    <div class="tablebox"><table>
-      <thead><tr><th>Name</th><th>Degree / position</th><th>Thesis</th><th>Afterwards</th></tr></thead>
-      <tbody>{{ALUMNI}}</tbody>
-    </table></div>
-  </details>
 </div></section>
 
 <section class="block" id="news"><div class="wrap">
