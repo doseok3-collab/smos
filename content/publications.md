@@ -52,7 +52,7 @@
 
 ### 2016
 
-- IV-SFG studies on the effect of Li+ in extending the electrochemical window at the Pt |\[C2mim\]\[FSA\] interface. Takashi Iwahashi, Miwa Yujiro, Wei Feng Zhou, Yasunari Sakai, Masaki Yamagata, Masashi Ishikawa, **Doseok Kim**, Yukio Ouchi. *Electrochemistry Communications* **72**, 54 (2016). [doi:10.1016/j.elecom.2016.09.003](https://doi.org/10.1016/j.elecom.2016.09.003)
+- IV-SFG studies on the effect of Li+ in extending the electrochemical window at the Pt \|\[C2mim\]\[FSA\] interface. Takashi Iwahashi, Miwa Yujiro, Wei Feng Zhou, Yasunari Sakai, Masaki Yamagata, Masashi Ishikawa, **Doseok Kim**, Yukio Ouchi. *Electrochemistry Communications* **72**, 54 (2016). [doi:10.1016/j.elecom.2016.09.003](https://doi.org/10.1016/j.elecom.2016.09.003)
 - Observation of isolated ionic liquid cations and water molecules in an inert solvent. Woongmo Sung, **Doseok Kim**. *Physical Chemistry Chemical Physics* **18**, 27529 (2016). [doi:10.1039/c6cp05292d](https://doi.org/10.1039/c6cp05292d)
 - Raman Spectroscopic Study on Alkyl Chain Conformation in 1‐Butyl‐3‐methylimidazolium Ionic Liquids and their Aqueous Mixtures. Dheeraj Kumar Singh, Seoncheol Cha, Dahyun Nam, Hyeonsik Cheong, Sang‐Woo Joo, **Doseok Kim**. *ChemPhysChem* **17**, 3040 (2016). [doi:10.1002/cphc.201600485](https://doi.org/10.1002/cphc.201600485)
 
