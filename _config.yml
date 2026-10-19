@@ -1,0 +1,8 @@
+# SMOS Lab website settings (GitHub Pages / Jekyll)
+title: SMOS Lab
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+exclude:
+  - README.md
