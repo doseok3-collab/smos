@@ -1,5 +1,16 @@
 <!-- 뉴스: '- **날짜** 내용' 한 줄씩. 새 소식은 맨 위에 추가하세요. -->
 
+- **Dec 2023** Prof. Kim gave invited talks at Academia Sinica, National Tsing Hua University and the Institute of Photonic Technologies in Taiwan.
+- **Dec 2023** Sophea Hin and Sona Krem passed their thesis defenses. Congratulations!
+- **Sep 2023** Hyeokjin left the group to continue his studies in Japan.
+- **Jun 2023** Dr. JaeJin Lee left to join the Catholic University of Korea as a researcher in single-molecule biophysics.
+- **May 2023** Teacher's Day gathering with lab alumni in Jamsil.
+- **Apr 2023** Prof. Adam Turner (Ateneo de Manila University) visited the lab.
+- **Mar 2023** Dr. Sunchul Cha (LG Chem) visited the lab before moving to the United States.
+- **Mar 2023** Sophea Hin joined the lab.
+- **Feb 2022** Dr. Koji Osawa left the lab for Kyoto.
+- **Feb 2022** JaeJin Lee received his Ph.D. for his single-molecule fluorescence spectroscopy study.
+- **Apr 2020** Dr. Koji Osawa joined as a postdoctoral researcher.
 - **Aug 2019** Prof. Yung Sam Kim (UNIST) visited and gave lectures on 2D IR spectroscopy.
 - **Dec 2018** Dr. Adam Turner left to become an assistant professor at Ateneo de Manila University.
 - **Oct 2018** Prof. Steve Granick (UNIST) visited and gave a departmental colloquium.
